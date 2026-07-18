@@ -1,0 +1,4 @@
+interface:
+  display_name: "BOSS 推荐牛人触达"
+  short_description: "岗位库 + 全 Computer Use 提取 + Codex 筛选的单轮 BOSS 触达"
+  default_prompt: "使用 $boss-zhipin-greeter 示例岗位：冻结岗位知识库和候选人数据后完整交付给 screening subagent；全程只用 Computer Use 滚动提取，再用大小写敏感的 Return 提交 Command-F，关闭 Find 栏并核验同一卡片后点击默认打招呼。"

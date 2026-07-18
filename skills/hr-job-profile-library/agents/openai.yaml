@@ -1,0 +1,6 @@
+interface:
+  display_name: "HR 招聘岗位 JD 与画像库"
+  short_description: "通用岗位 JD、招聘画像、筛选标准和版本管理"
+  default_prompt: "使用 $hr-job-profile-library 新建、读取、更新或归档一个招聘岗位。"
+policy:
+  allow_implicit_invocation: false

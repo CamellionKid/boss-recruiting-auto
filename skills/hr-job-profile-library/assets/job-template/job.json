@@ -1,0 +1,13 @@
+{
+  "id": "{{JOB_ID}}",
+  "name": "{{JOB_NAME}}",
+  "english_name": "未提供",
+  "aliases": [],
+  "department": "未提供",
+  "family": "未提供",
+  "location": "未提供",
+  "status": "active",
+  "current_version": "1.0.0",
+  "created_at": "{{CREATED_AT}}",
+  "updated_at": "{{UPDATED_AT}}"
+}
