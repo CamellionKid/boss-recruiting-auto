@@ -1,5 +1,19 @@
 # BOSS Auto-Greeter System
 
+> ## ⚠️ DEPRECATED（已弃用）
+>
+> 本仓库的 Computer Use 全自动打招呼方案**已停止使用**，原因：
+> 1. **命中率不稳定**（60%–80%）：分类边界问题未解决，自动打招呼存在误触达风险，而 BOSS 打招呼受风控限制，误触达代价高；
+> 2. **Token 成本不可持续**：单次运行约耗 2% 周配额，规模化后成本远超其节省的人力。
+>
+> **核心资产已迁移**：本仓库沉淀的岗位画像 / 筛选标准 / 证据分级体系，已迁移至 **[hr-ops-copilot](https://github.com/CamellionKid/hr-ops-copilot)** 的 `prompts/roles/`；完整复盘与「重启全自动 Sourcing 检查清单」见该仓库 `archive/computer-use-sourcing-loop.md`。
+>
+> 当前日常 Sourcing 采用「人工 + Chrome 侧边栏 Gemini + name-locator-mvp 定位」的半自动方案，操作手册见 hr-ops-copilot 的 `docs/sop/gemini-boss-sourcing-sop.md`。
+>
+> 本仓库仅作历史存档保留。
+
+---
+
 一套可移植的招聘 Skill，包含 BOSS 推荐牛人筛选触达流程，以及通用的岗位 JD 与人才画像管理能力。
 
 ## 包含的 Skills
